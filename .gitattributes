@@ -1,1 +1,2 @@
 *.apk filter=lfs diff=lfs merge=lfs -text
+VRsocial.apk filter=lfs diff=lfs merge=lfs -text
